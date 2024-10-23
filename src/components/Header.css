@@ -1,0 +1,9 @@
+.Header {
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.Header > h1 {
+  color: rgb(114, 156, 233);
+  font-size: 30px;
+}
